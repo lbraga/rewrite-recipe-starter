@@ -1,1 +1,1 @@
-rootProject.name = "tr-criteria-rewrite-recipe"
+rootProject.name = "criteria-rewrite-recipe"
